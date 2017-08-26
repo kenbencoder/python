@@ -1,0 +1,26 @@
+the print function will be your best friend when debugging
+
+for future reference, when ever i write a ">>>" it means the
+test after it i want you to type into the interpreter
+
+in the interpreter type
+
+>>> print 10
+
+now try a string
+
+string are delimited by ' or ", either one
+
+>>> print 'hello world'
+>>> print "hello world"
+
+try these 2
+
+>>> print '"hello world"'
+>>> print "'hello world"'
+
+
+actually in the interpreter if you want to print out something just do this
+
+>>> 10
+>>> "hello world"

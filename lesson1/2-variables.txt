@@ -1,0 +1,39 @@
+variables are how we can store and refer to values
+
+now remember, variables are only REFERENCES to values
+
+we will only deal with numbers and strings
+
+in the interactive interpreter type
+
+>>> a = 10
+>>> a
+
+that should print 10
+
+now do this
+
+>>> b = a
+>>> b = 20
+
+guess what will be printed if you type
+
+>>> a
+>>> b
+
+
+as with numbers, we will do with strings as well
+
+>>> s = "ken the coder"
+>>> s
+
+>>> other = s
+>>> other
+>>> other = "kenbencoder"
+
+>>> s
+>>> other
+
+
+ok, thats it for this lesson.
+play around with print and variables for a bit
