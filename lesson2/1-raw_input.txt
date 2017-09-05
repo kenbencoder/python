@@ -1,0 +1,26 @@
+raw_input is how we can get input from the user
+it is a built in function in python so there is no
+need to import anything
+
+it takes a single argument which is the string to
+prompt the user
+
+fire up the interpreter and type
+
+>>> raw_input('what is your name: ')
+
+enter you name and you will find it prints out what you entered
+
+now try
+
+>>> myVar = raw_input('what is your name: )
+
+this time it doesn't echo your input, it puts it into the variable myVar
+
+now type
+
+>>> myVar
+
+that should print out what you entered.
+
+thats how you can get user input :)
