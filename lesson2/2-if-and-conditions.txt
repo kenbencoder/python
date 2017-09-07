@@ -1,0 +1,31 @@
+now it's time to have a bit of fun with conditions
+
+conditions are constructed like this
+
+if <condition>:
+
+the keyword 'if' followed by a condition and ending with ':'
+
+create new a python file, condition.py for example
+
+in there, get the user input and store it in a variable called
+myName. (remember how to use raw_input?)
+
+now you can use myName to conditionally print something out
+based on what name was entered
+
+if myName == 'Ben':
+	print('hello 'Ben') # remember to use tabs to indent
+
+
+you can try anything
+
+if myName == 'Ken':
+	print('hello Ken')
+
+
+if myName == 'Bill':
+	print('you are not Ken')
+	print('or Ben)
+
+try other conditions, apart from == there is also !=

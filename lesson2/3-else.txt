@@ -1,0 +1,22 @@
+what would if be without else!
+
+else always follow an if
+
+condition = True
+
+if condition:
+	print 'It's true!'
+else:
+	print 'It's false!'
+
+
+and we can do it with input
+
+my_input = raw_input('enter text: ')
+if my_input == 'i am Ken':
+	print 'Hi Ken!'
+else:
+	print 'I don't understand!'
+
+try out some stuff with the if/else and raw_input
+this is where you can try some dynamic programs :)
